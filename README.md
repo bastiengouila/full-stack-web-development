@@ -1,1 +1,1 @@
-# This repository contains the different parts of the assignments for the full-stack-web-development course
+# This repository contains the different parts of the assignments for the full-stack-web-development course. The repository contains the parts 0 through 6.
